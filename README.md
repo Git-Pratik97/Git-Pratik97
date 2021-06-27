@@ -9,4 +9,4 @@ Git-Pratik97/Git-Pratik97 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-Pratik97)](https://github.com/Git-Pratik97/github-readme-stats)
