@@ -11,4 +11,3 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-Pratik97&show_icons=true&theme=dracula)
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
