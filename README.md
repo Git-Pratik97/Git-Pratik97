@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Git-Pratik97
 - 👀 I’m interested in CPP, Python as well as Machine Learning 
 - 🌱 I’m currently Persuing Mechanical Engineering at NIT Calicut
-- 💞️ I’m looking forward to collaborate on Projects related to Product Design and Management. 
+
 - 📫 How to reach me +91-7743879296, pratikkambleat@gmail.com, twitter - @p_ra_thik
 
 <!---
