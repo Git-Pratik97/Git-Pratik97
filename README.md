@@ -22,10 +22,14 @@
 <!--   <img src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif" width="750" height="400"/> -->
   <img src="https://media.giphy.com/media/YyKPbc5OOTSQE/giphy.gif" width="750" height="400"/>
 </div>
-- 👋 Hi, I’m @Git-Pratik97
-- 👀 I’m Currently Learning Fullstack Development Using Java and React.  
-- 🌱 I’m currently Persuing Mechanical Engineering at NIT Calicut
-- 📫 How to reach me +91-7743879296, pratikkambleat@gmail.com, twitter - @p_ra_thik
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
 <!---
