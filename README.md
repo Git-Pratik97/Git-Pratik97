@@ -16,8 +16,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=Git-Pratik97&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Git-Pratik97&style=flat-square&color=blue" alt=""/>
+
 
 <!---
 Git-Pratik97/Git-Pratik97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
