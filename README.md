@@ -20,7 +20,6 @@
 </div>
 <div align="center">
 <!--   <img src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif" width="750" height="400"/> -->
-  
   <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" width="750" height="400"/>
 </div>
 - 👋 Hi, I’m @Git-Pratik97
