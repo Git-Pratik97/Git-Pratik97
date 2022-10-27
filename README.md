@@ -17,12 +17,13 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  - 👋 Hi, I’m @Git-Pratik97
+
+</div>
+- 👋 Hi, I’m @Git-Pratik97
 - 👀 I’m Currently Learning Fullstack Development Using Java and React.  
 - 🌱 I’m currently Persuing Mechanical Engineering at NIT Calicut
 
 - 📫 How to reach me +91-7743879296, pratikkambleat@gmail.com, twitter - @p_ra_thik
-</div>
 
 
 <!---
