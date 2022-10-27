@@ -17,7 +17,7 @@
   </a>
 </div>
 </div>
-<img src="https://komarev.com/ghpvc/?Git-Pratik97=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Git-Pratik97&style=flat-square&color=blue" alt=""/>
 
 <!---
 Git-Pratik97/Git-Pratik97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
