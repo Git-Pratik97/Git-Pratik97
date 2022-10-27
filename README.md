@@ -23,7 +23,11 @@ Git-Pratik97/Git-Pratik97 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
-- ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-Pratik97&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Pratik97)](https://github.com/Git-Pratik97/github-readme-stats)
-
+<div>
+  <p>
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-Pratik97&show_icons=true&theme=dracula) </p>
+  <p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Pratik97)](https://github.com/Git-Pratik97/github-readme-stats)
+  </p>
+  </div>
 
