@@ -30,7 +30,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pratik-blue?style=flat&logo=Linkedin&logoColor=white&w=500)](https://www.linkedin.com/in/pratik-kamble-b8657abb/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pratik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-kamble-b8657abb/)
 
 <div align= "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -66,5 +66,5 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png) -->
 
-   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg&auto=format&fit=crop&w=1074&q=80)
 
