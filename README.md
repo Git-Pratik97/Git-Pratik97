@@ -17,10 +17,11 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-</div>
-<p align="center">
+  <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+</div>
+
 <div align="center">
 <!--   <img src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif" width="750" height="400"/> -->
   <img src="https://media.giphy.com/media/YyKPbc5OOTSQE/giphy.gif" width="750" height="400"/>
